@@ -1,0 +1,25 @@
+.count-down-main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+  }
+  
+  .timer {
+    min-width: 96px;
+  }
+  
+  h3,
+  p {
+    margin: 0;
+    text-align: center;
+  }
+  
+  .bg-cover {
+    background-size: cover;
+  }
+  
+  .bg-center {
+    background-position: center;
+  }
+  
